@@ -1,33 +1,26 @@
 <div align="center">
-  <img src="https://opensms.io/assets/brand/opensms-lockup-h-light@2x.png" width="360" alt="OpenSMS">
-  <p><strong>Your most reliable SMS provider</strong><br>One API for every carrier across Africa.</p>
-  <p><a href="https://opensms.io">opensms.io</a></p>
+  <a href="https://opensms.io/">
+    <img src="https://opensms.io/assets/brand/opensms-lockup-h-light@2x.png" width="360" alt="opensms">
+  </a>
+  <p><strong>An SMS API built for Africa.</strong><br>In development. Join the waitlist for launch updates.</p>
+  <p>
+    <a href="https://opensms.io/">Website</a> ·
+    <a href="https://opensms.io/#docs">Join the waitlist</a> ·
+    <a href="https://opensms.io/brand/">Brand guidelines</a> ·
+    <a href="https://opensms.io/assets/social-brand-kit/opensms-social-brand-kit.zip">Download brand kit</a>
+  </p>
 </div>
 
-<p align="center">
-  <a href="https://opensms.io">Website</a>
-  ·
-  <a href="https://opensms.io/#pricing">Pricing</a>
-  ·
-  <a href="mailto:info@opensms.io">Contact</a>
-</p>
+## What we're building
 
-## What we are building
+opensms is building an SMS API for developers and product teams serving African markets. Our focus is transactional messaging: verification codes, account notifications, and time-sensitive alerts.
 
-OpenSMS gives product teams one dependable integration for messaging across African carrier networks. We select the best route for every message, retry when a path fails, and return a clear delivery receipt for every attempt.
+We're working toward a single integration for sending messages across carrier networks, with routing, fallback, and delivery reporting handled through the platform.
 
-## The platform
+## Launch status
 
-- One API across carriers and destinations
-- Best current delivery route selected per message
-- Automatic fallback when a carrier rejects or times out
-- Transparent pricing and delivery receipts
-- Built for verification, alerts, and transactional traffic
+opensms is preparing for launch. API access is not yet generally available. [Join the waitlist](https://opensms.io/#docs) for launch updates and information about access.
 
-## Repositories
+## Brand resources
 
-- [opensms-landing](https://github.com/opensms-io/opensms-landing), the public product site and waitlist experience
-
-## Connect
-
-Visit [opensms.io](https://opensms.io) to join the launch waitlist or contact us at [info@opensms.io](mailto:info@opensms.io).
+Find the official logos and usage guidance on the [brand page](https://opensms.io/brand/). The [social brand kit](https://opensms.io/assets/social-brand-kit/opensms-social-brand-kit.zip) includes avatars, cover images, and reusable assets.
