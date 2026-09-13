@@ -24,3 +24,7 @@ opensms is preparing for launch. API access is not yet generally available. [Joi
 ## Brand resources
 
 Find the official logos and usage guidance on the [brand page](https://opensms.io/brand/). The [social brand kit](https://opensms.io/assets/social-brand-kit/opensms-social-brand-kit.zip) includes avatars, cover images, and reusable assets.
+
+## Connect
+
+[Website](https://opensms.io/) · [Facebook](https://www.facebook.com/profile.php?id=61594556871099) · [Contact](mailto:info@opensms.io) · [Brand](https://opensms.io/brand/)
