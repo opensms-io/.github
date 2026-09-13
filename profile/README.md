@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="https://opensms.io/assets/brand/opensms-appicon.svg" width="88" alt="OpenSMS">
-  <h1>opensms.io</h1>
+  <img src="https://opensms.io/assets/brand/opensms-lockup-h-light@2x.png" width="360" alt="OpenSMS">
   <p><strong>Your most reliable SMS provider</strong><br>One API for every carrier across Africa.</p>
   <p><a href="https://opensms.io">opensms.io</a></p>
 </div>
+
+<p align="center">
+  <a href="https://opensms.io">Website</a>
+  ·
+  <a href="https://opensms.io/#pricing">Pricing</a>
+  ·
+  <a href="mailto:info@opensms.io">Contact</a>
+</p>
 
 ## What we are building
 
