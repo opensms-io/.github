@@ -27,4 +27,4 @@ Find the official logos and usage guidance on the [brand page](https://opensms.i
 
 ## Connect
 
-[Website](https://opensms.io/) · [Facebook](https://www.facebook.com/profile.php?id=61594556871099) · [YouTube](https://www.youtube.com/@opensmsio) · [Contact](mailto:info@opensms.io) · [Brand](https://opensms.io/brand/)
+[Website](https://opensms.io/) · [Facebook](https://www.facebook.com/profile.php?id=61594556871099) · [YouTube](https://www.youtube.com/@opensmsio) · [TikTok](https://www.tiktok.com/@opensms60) · [Contact](mailto:info@opensms.io) · [Brand](https://opensms.io/brand/)
